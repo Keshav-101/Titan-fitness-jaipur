@@ -123,10 +123,10 @@ Keshav Choudhary
 Frontend Developer
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/keshav-101
 
 LinkedIn:
-https://linkedin.com/in/YOUR_LINKEDIN_PROFILE
+https://www.linkedin.com/in/keshav-choudhary-746a63248/
 
 ---
 
