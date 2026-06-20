@@ -4,10 +4,6 @@ A premium fitness website demo built for modern gyms and fitness centers. This p
 
 ## Live Demo
 
-Add your Vercel URL here after deployment.
-
-Example:
-
 https://titan-fitness-jaipur.vercel.app
 
 ---
